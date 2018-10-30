@@ -62,8 +62,6 @@ try:
 			varFarbe="nix"
 			varZahl= "99"
 
-
-
 # exit the loop with a keyboard press
 except KeyboardInterrupt:
 	print('\nEnde.')
