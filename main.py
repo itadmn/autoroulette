@@ -60,7 +60,7 @@ try:
 				time.sleep(1)
 				pyautogui.click()
 				
-			
+			# reset values
 			varFarbe="nix"
 			varZahl= "99"
 
