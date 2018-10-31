@@ -1,5 +1,7 @@
+# imports
 import pyautogui, time
 
+# initial parameters
 varZahl="99"
 varRunde=1
 varRotx, varRoty =600, 353
